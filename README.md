@@ -22,8 +22,8 @@ Le projet inclut une **analyse approfondie** et des **applications concrètes** 
 
 ## Contenu du Repository  
 **Documents :**  
-- [📄 Rapport - Imputation de Données Manquantes](./Rapport_Donnees_Manquantes.pdf)  
-- [📽️ Slides - Présentation avec des graphiques](./Slides_Donnees_Manquantes.pdf)  
+- [📄 Rapport - Imputation de Données Manquantes](./Rapport_Imputation_Donnees_Manquantes.pdf)  
+- [📽️ Slides - Présentation avec des graphiques](./Slides_Imputation_Donnees_Manquantes.pdf)  
 
 **Code source :**  
 - Répertoire [`/src`](/src)  : Implémentation en **R** de différentes méthodes d’imputation sur les applications.  
