@@ -2,11 +2,10 @@
   <h1>Imputation de Données Manquantes</h1>
 </div>
 
-## Description  
 L’analyse de données est souvent confrontée à des **valeurs manquantes**, qui peuvent biaiser les résultats statistiques et nuire à la fiabilité des modèles.  
 Ce projet explore la nature des données manquantes ainsi que différentes méthodes (classiques et avancées) pour traiter ces données incomplètes.
 
-### Méthodes étudiées :
+## Méthodes étudiées 
 1. **Approches classiques :**  
    - Suppression des observations incomplètes.
    - Imputation par la moyenne/médiane/mode.
